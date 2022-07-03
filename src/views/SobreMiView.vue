@@ -1,16 +1,16 @@
 <template>
-  <Proyecto />
+  <SobreMi />
 </template>
 
 <script>
 // @ is an alias to /src
 
-import Proyecto from "@/components/ProyectosComponente.vue";
+import SobreMi from "@/components/SobreMiComponente.vue";
 
 export default {
-  name: Proyecto,
+  name: SobreMi,
   components: {
-    Proyecto,
+    SobreMi,
   },
 };
 </script>
