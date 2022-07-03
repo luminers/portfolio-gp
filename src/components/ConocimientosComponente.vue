@@ -43,10 +43,7 @@ export default {
   padding: 20px;
   display: flex;
   flex-flow: column wrap;
-}
-
-#conocimientos-a {
-  border-bottom: 1px solid #000;
+  font-size: 1em;
 }
 
 .div-content {
@@ -54,8 +51,8 @@ export default {
   text-align: center;
   justify-content: center;
   align-items: center;
-  padding: 10px 0px;
-  height: 15vh;
+  padding: 12px 0px;
+  height: auto;
   background: rgba(124, 124, 124, 0.129);
   box-shadow: 0 8px 32px 0 rgba(43, 43, 50, 0.37);
   backdrop-filter: blur(4px);

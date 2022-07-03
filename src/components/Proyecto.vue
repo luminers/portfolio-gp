@@ -34,6 +34,7 @@ export default {
 h3 {
   padding-top: 10px;
   color: #333333;
+  padding: 10px;
 }
 .link-btn {
   margin-top: 10px;
@@ -62,7 +63,7 @@ h3 {
 }
 
 .proyecto-img {
-  width: 40vw;
+  width: 100%;
   border-radius: 10px 10px 0 0;
 }
 

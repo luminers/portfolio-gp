@@ -14,9 +14,9 @@
     <h3>CV</h3>
     <div class="div-content cv">
       <iframe
-        src="https://drive.google.com/file/d/1dtuxWII7AXU2f5Twg9M67XJM367Q1PlK/preview"
+        src="https://drive.google.com/file/d/1OzagDgdg-O3m0HWrhg1BU_LEQuvNcM4Q/preview"
         width="550"
-        height="500"
+        height="400"
       ></iframe>
     </div>
   </main>
@@ -27,7 +27,7 @@ export default {
   name: "ResumenComponente",
   data() {
     return {
-      img: "",
+      img: "https://github.com/luminers/portfolio-gp/blob/main/src/assets/perfil.png?raw=true",
     };
   },
 };

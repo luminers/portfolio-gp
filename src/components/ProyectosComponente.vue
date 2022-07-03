@@ -20,6 +20,16 @@ export default {
     return {
       proyectos: [
         {
+          link: "https://github.com/luminers/Simulador-Plazo-Fijo",
+          img: "https://thelemabogados.pe/wp-content/uploads/2021/04/ac-asesores-empresariales-DIAN-Tasa-inter%C3%A9s-moratorio-liquidar-deudas.jpg",
+          logo: [
+            "https://vuejs.org//images/logo.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
+            "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
+          ],
+          title: "Simulador plazo fijo",
+        },
+        {
           link: "https://luminers.github.io/KainotoLandingPage/",
           img: "https://luminers.github.io/KainotoLandingPage/assets/img/nosotros.jpg",
           logo: [
@@ -27,7 +37,7 @@ export default {
             "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
             "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
           ],
-          title: "Proyecto Kainoto",
+          title: "Maqueta Proyecto Kainoto",
         },
         {
           link: "https://luminers.github.io/WP-Api-SPA/",
@@ -38,16 +48,6 @@ export default {
             "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
           ],
           title: "Scrapper con WordPress API",
-        },
-        {
-          link: "https://luminers.github.io/WP-Api-SPA/",
-          img: "https://thelemabogados.pe/wp-content/uploads/2021/04/ac-asesores-empresariales-DIAN-Tasa-inter%C3%A9s-moratorio-liquidar-deudas.jpg",
-          logo: [
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
-            "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
-            "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-          ],
-          title: "Caluladora de intereses",
         },
         {
           link: "https://luminers.github.io/WP-Api-SPA/",
@@ -72,7 +72,7 @@ export default {
 .main-section {
   height: 200vh;
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   align-items: center;
 }
 </style>

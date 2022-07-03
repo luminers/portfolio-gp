@@ -6,7 +6,9 @@
     <router-link id="proyectos-a" to="/proyectos"
       ><h3>Proyectos</h3></router-link
     >
-    <router-link id="sobre-mi-a" to="/sobre-mi"><h3>Sobre mi</h3></router-link>
+    <router-link style="border: none" id="sobre-mi-a" to="/sobre-mi"
+      ><h3>Sobre mi</h3></router-link
+    >
   </nav>
   <router-view />
 </template>
@@ -32,6 +34,7 @@ video {
 a {
   text-decoration: none;
   color: #000;
+  font-size: 1em;
 }
 
 body {
