@@ -62,6 +62,7 @@ body {
   flex-flow: row wrap;
   overflow-y: scroll;
   overflow-x: hidden;
+  z-index: 1;
 }
 
 #app::-webkit-scrollbar {
