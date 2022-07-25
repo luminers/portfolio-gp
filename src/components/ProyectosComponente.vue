@@ -20,16 +20,6 @@ export default {
     return {
       proyectos: [
         {
-          link: "https://github.com/luminers/Simulador-Plazo-Fijo",
-          img: "https://thelemabogados.pe/wp-content/uploads/2021/04/ac-asesores-empresariales-DIAN-Tasa-inter%C3%A9s-moratorio-liquidar-deudas.jpg",
-          logo: [
-            "https://vuejs.org//images/logo.png",
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
-            "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
-          ],
-          title: "Simulador plazo fijo",
-        },
-        {
           link: "https://luminers.github.io/KainotoLandingPage/",
           img: "https://luminers.github.io/KainotoLandingPage/assets/img/nosotros.jpg",
           logo: [
@@ -50,7 +40,7 @@ export default {
           title: "Scrapper con WordPress API",
         },
         {
-          link: "https://luminers.github.io/WP-Api-SPA/",
+          link: "https://luminers.github.io/MarioBros/",
           img: "https://i.ytimg.com/vi/zKZrHr4yDZc/maxresdefault.jpg",
           logo: [
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
@@ -59,6 +49,16 @@ export default {
           ],
           title: "Mario Bros",
         },
+        {
+          link: "https://github.com/luminers/Simulador-Plazo-Fijo",
+          img: "https://thelemabogados.pe/wp-content/uploads/2021/04/ac-asesores-empresariales-DIAN-Tasa-inter%C3%A9s-moratorio-liquidar-deudas.jpg",
+          logo: [
+            "https://vuejs.org//images/logo.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
+            "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
+          ],
+          title: "Simulador plazo fijo",
+        }
       ],
     };
   },
