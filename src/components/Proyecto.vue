@@ -2,8 +2,11 @@
   <div class="proyecto">
     <img class="proyecto-img" :src="img" alt="" />
     <h3>{{ title }}</h3>
-    <a :href="link"
-      ><input type="button" class="link-btn" value="Ver Proyecto"
+    <a target="_blank" :href="link"
+      ><input type="button" class="link-btn" value="Ver proyecto"
+    /></a>
+    <a target="_blank" :href="github"
+      ><input type="button" class="link-btn" value="Ver código"
     /></a>
 
     <div class="logos">
@@ -23,6 +26,7 @@ export default {
   name: "ProyectoComponente",
   props: {
     link: String,
+    github: String,
     img: String,
     title: String,
     logos: Array,

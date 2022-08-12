@@ -9,7 +9,6 @@
         rubro. Cuento con una gran capacidad de aprendizaje y un gran sentido de
         responsabilidad.
       </p>
-      <img class="img-perfil" :src="img" alt="foto" />
     </div>
     <h3>CV</h3>
     <div class="div-content cv">
