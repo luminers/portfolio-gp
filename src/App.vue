@@ -104,10 +104,17 @@ body {
   justify-content: center;
   align-items: center;
   height: 100%;
-  border-bottom: 1px solid #535353;
+  font-size: 1em;
   color: #151515;
 }
 .header-nav a:hover {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 8px 9px 0 rgba(2, 2, 2, 0.574);
+
+  transition: 0.5s ease;
+}
+.header-nav a:focus {
   border: none;
   border-radius: 10px;
   box-shadow: 0 8px 9px 0 rgba(2, 2, 2, 0.574);
