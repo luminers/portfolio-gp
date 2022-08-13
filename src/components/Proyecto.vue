@@ -64,6 +64,7 @@ h3 {
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 10px;
+  width: 70%;
 }
 
 .proyecto-img {
@@ -74,5 +75,11 @@ h3 {
 .logo {
   margin: 10px;
   width: 4vw;
+}
+
+@media all and (max-width: 550px) {
+  .proyecto {
+    margin: 0;
+  }
 }
 </style>

@@ -83,4 +83,11 @@ export default {
   display: flex;
   flex-flow: row nowrap;
 }
+
+@media all and (max-width: 550px) {
+  .div-content {
+    width: 90%;
+    padding-left: 50px;
+  }
+}
 </style>

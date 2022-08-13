@@ -18,3 +18,11 @@ export default {
   name: "CarreraComponente",
 };
 </script>
+
+<style>
+@media all and (max-width: 768px) {
+  .div-content {
+    margin: 0;
+  }
+}
+</style>

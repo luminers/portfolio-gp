@@ -29,7 +29,7 @@ export default {
             "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
             "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
           ],
-          title: "Maqueta Proyecto Kainoto",
+          title: "Maqueta Proyecto Kainoto Landing Page",
         },
         {
           link: "https://luminers.github.io/WP-Api-SPA/",

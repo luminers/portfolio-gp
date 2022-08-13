@@ -13,9 +13,10 @@
     <h3>CV</h3>
     <div class="div-content cv">
       <iframe
-        src="https://drive.google.com/file/d/1OzagDgdg-O3m0HWrhg1BU_LEQuvNcM4Q/preview"
-        width="550"
-        height="400"
+        src="https://drive.google.com/file/d/1_HHa8IjwAv6fDOVbrBBpKu_SEgn-GYyd/preview"
+        width="640"
+        height="480"
+        allow="autoplay"
       ></iframe>
     </div>
   </main>
@@ -57,5 +58,10 @@ export default {
   width: 30%;
   border-radius: 10px;
   margin: 10px;
+}
+@media all and (max-width: 550px) {
+  .div-content {
+    width: 50%;
+  }
 }
 </style>

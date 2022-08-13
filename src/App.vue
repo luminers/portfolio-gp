@@ -121,4 +121,10 @@ body {
 
   transition: 0.5s ease;
 }
+
+@media all and (max-width: 768px) {
+  .header-nav a {
+    font-size: 0.9em;
+  }
+}
 </style>
