@@ -1,24 +1,2 @@
-# portfolio-gp
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Portfolio personal
+Este portfolio fue creado con el fin de poder demostrar tanto mis habilidades con Vue.js para el desarrollo del mismo a la vez que poder mostrar todos mis demas proyectos y trabajos hasta la actualidad.
