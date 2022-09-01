@@ -21,6 +21,29 @@ export default {
     return {
       proyectos: [
         {
+          link: "https://luminers.github.io/lab-wallet/#/",
+          github: "https://github.com/luminers/lab-wallet",
+          img: "https://emojipedia-us.s3.amazonaws.com/social/emoji/robot.png",
+          logo: [
+            "https://vuejs.org//images/logo.png",
+            "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
+            "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
+          ],
+          title: "CriptoSim",
+        },
+        {
+          link: "https://luminers.github.io/Generador-contrasena/",
+          github: "https://github.com/luminers/Generador-contrasena",
+          img: "https://github.com/luminers/Generador-contrasena/blob/main/GeneradorContrasenas.PNG?raw=true",
+          logo: [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
+            "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
+            "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+          ],
+          title: "Generador de contraseñas",
+        },
+        {
           link: "https://luminers.github.io/KainotoLandingPage/",
           github: "https://github.com/luminers/KainotoLandingPage",
           img: "https://luminers.github.io/KainotoLandingPage/assets/img/nosotros.jpg",
@@ -53,17 +76,7 @@ export default {
           ],
           title: "Mario Bros",
         },
-        {
-          link: "https://luminers.github.io/Generador-contrasena/",
-          github: "https://github.com/luminers/Generador-contrasena",
-          img: "https://github.com/luminers/Generador-contrasena/blob/main/GeneradorContrasenas.PNG?raw=true",
-          logo: [
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
-            "https://www.returngis.net/wp-content/uploads/2012/05/logo_CSS3.png",
-            "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-          ],
-          title: "Generador de contraseñas",
-        },
+
         {
           link: "https://github.com/luminers/Simulador-Plazo-Fijo/tree/main/spf-vue",
           github:
