@@ -1,7 +1,7 @@
 <template>
   <div class="div-content">
     <p>
-      Certificacion en "Responsive web desing" de FreeCodeCamp.org
+      Certificación en "Responsive web desing" de FreeCodeCamp.org
       <a
         target="_blank"
         href="https://freecodecamp.org/certification/joaquinnu/responsive-web-design"

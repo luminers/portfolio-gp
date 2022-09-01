@@ -3,8 +3,8 @@
     <h3>Perfil</h3>
     <div class="div-content perfil">
       <p>
-        Soy un estudiante universitario en busca de una oportunidad de trabajo
-        que me permita crecer laboral y personalmente. Apasionado por la
+        Soy un estudiante universitario avanzado en busca de una oportunidad de
+        trabajo que me permita crecer laboral y personalmente. Apasionado por la
         tecnología y la innovación, pero dispuesto a aprender sobre cualquier
         rubro. Cuento con una gran capacidad de aprendizaje y un gran sentido de
         responsabilidad.
@@ -47,7 +47,7 @@ export default {
 }
 
 .perfil {
-  padding: 0 5vw;
+  padding: 10px 5vw;
   margin: 0;
   width: 83vw;
   height: auto;
