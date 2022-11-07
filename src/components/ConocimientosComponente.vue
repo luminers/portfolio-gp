@@ -73,6 +73,11 @@ export default {
   width: 40px;
 }
 
+.icon-label {
+  align-self: flex-end;
+  font-weight: 600;
+}
+
 .front {
   padding: 10px;
   width: 70%;
